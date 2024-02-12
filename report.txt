@@ -1,0 +1,15 @@
+Info: Backing up file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/sym-lib-table" to file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/rescue-backup/sym-lib-table-2021-03-17-15-33-09".
+Info: Backing up file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/80m_Tx_Antenna.sch" to file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/rescue-backup/80m_Tx_Antenna-2021-03-17-15-33-09.sch".
+Info: Backing up file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/80m_Tx_Antenna.pro" to file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/rescue-backup/80m_Tx_Antenna-2021-03-17-15-33-09.pro".
+Info: Backing up file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/80m_Tx_Antenna-cache.lib" to file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/rescue-backup/80m_Tx_Antenna-cache-2021-03-17-15-33-09.lib".
+Info: Backing up file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/80m_Tx_Antenna-rescue.lib" to file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/rescue-backup/80m_Tx_Antenna-rescue-2021-03-17-15-33-09.lib".
+Info: Backing up file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/80m_Tx_Antenna-rescue.dcm" to file "/Library/Application Support/kicad/docs/KiCad/Receiver_Development_Platform/80m_Tx_Antenna/rescue-backup/80m_Tx_Antenna-rescue-2021-03-17-15-33-09.dcm".
+Info: Adding library "80m_Tx_Antenna-rescue", file "${KIPRJMOD}/80m_Tx_Antenna-rescue.lib" to project symbol library table.
+Symbol "INDUCTOR" mapped to symbol library "80m_Tx_Antenna-rescue".
+Symbol "CONN_01X01" mapped to symbol library "80m_Tx_Antenna-rescue".
+Symbol "CONN_01X03" mapped to symbol library "80m_Tx_Antenna-rescue".
+Symbol "C_Small" mapped to symbol library "Device".
+Symbol "TRANSFO" mapped to symbol library "80m_Tx_Antenna-rescue".
+Symbol "CONN_01X01" mapped to symbol library "80m_Tx_Antenna-rescue".
+Symbol "INDUCTOR_VARIABLE" mapped to symbol library "80m_Tx_Antenna-rescue".
+Info: Symbol library table mapping complete!

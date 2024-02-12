@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 80m_Tx_Antenna-rescue)(type Legacy)(uri ${KIPRJMOD}/80m_Tx_Antenna-rescue.lib)(options "")(descr ""))
+)
